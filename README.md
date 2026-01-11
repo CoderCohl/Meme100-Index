@@ -59,7 +59,7 @@ Inclusion is based on historical relevance, peak market capitalization, sustaine
 
 The list below reflects the initial Meme100 universe.
 
-                                                                                                          Meme100 Constituents (Alphabetical)
+  Meme100 Constituents (Alphabetical)
 
 1. Dogecoin (DOGE)
 2. Shiba Inu (SHIB)
